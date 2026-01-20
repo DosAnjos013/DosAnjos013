@@ -107,6 +107,24 @@ width="75"
 style="padding-right:30px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"
 />   
+
+<img 
+align="left" 
+alt="Python"
+height="75"
+width="75"
+style="padding-right:30px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+            
+
+<img 
+align="left" 
+alt="Python"
+height="75"
+width="75"
+style="padding-right:30px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+          
 <br/><br/><br/><br/>
 
 ### 🧮 Estatísticas
@@ -114,8 +132,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
 <img
 align="left" 
 alt="Estatisticas"
+style="padding-right:10px;"
 height="200"
-style="padding-right:30px;"
 src="https://github-readme-stats.vercel.app/api?username=DosAnjos013&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&custom_title=Estatísticas%20de%20João&layout=compact"
 />   
 
@@ -123,7 +141,6 @@ src="https://github-readme-stats.vercel.app/api?username=DosAnjos013&show_icons=
 align="left" 
 alt="Tecnologias"
 height="200"
-style="padding-right:30px;"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=DosAnjos013&theme=tokyonight&layout=compact&custom_title=Tecnologias"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=DosAnjos013&theme=tokyonight&custom_title=Tecnologias&layout=compact"
 />   
 

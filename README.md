@@ -108,22 +108,6 @@ style="padding-right:30px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"
 />   
 
-<img 
-align="left" 
-alt="Python"
-height="75"
-width="75"
-style="padding-right:30px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-            
-
-<img 
-align="left" 
-alt="Python"
-height="75"
-width="75"
-style="padding-right:30px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
           
 <br/><br/><br/><br/><br/><br/>
 

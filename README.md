@@ -107,11 +107,9 @@ Acredito que o código é o meio, mas o dado é o que direciona o sucesso de um 
      align="middle"
      />
 </p>
-          
-<br/><br/><br/>
-
 
 ### 📊 Estatísticas
+
 <br/>
 <div align="left">
   <img 

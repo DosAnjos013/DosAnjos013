@@ -38,8 +38,8 @@ Acredito que o código é o meio, mas o dado é o que direciona o sucesso de um 
 <img
 align="left" 
 alt="Python" 
-height="75"
-width="75"
+height="50"
+width="50"
 style="padding-right:30px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
@@ -47,8 +47,8 @@ style="padding-right:30px;"
 <img
 align="left" 
 alt="Python"
-height="100"
-width="100"
+height="75"
+width="75"
 style="padding-right:30px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain-wordmark.svg" />
 
@@ -56,8 +56,8 @@ style="padding-right:30px;"
 <img
 align="left" 
 alt="Python"
-height="75"
-width="75"
+height="50"
+width="50"
 style="padding-right:30px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
 
@@ -66,8 +66,8 @@ style="padding-right:30px;"
 <img 
 align="left" 
 alt="Python"
-height="75"
-width="75"
+height="50"
+width="50"
 style="padding-right:30px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
           
@@ -75,8 +75,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-origi
 <img
 align="left" 
 alt="Python"
-height="75"
-width="75"
+height="50"
+width="50"
 style="padding-right:30px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
           
@@ -84,8 +84,8 @@ style="padding-right:30px;"
 <img 
 align="left" 
 alt="Python"
-height="75"
-width="75"
+height="50"
+width="50"
 style="padding-right:30px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 
@@ -93,8 +93,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-ori
 <img
 align="left" 
 alt="Python"
-height="75"
-width="75"
+height="50"
+width="50"
 style="padding-right:30px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
           
@@ -102,8 +102,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 <img
 align="left" 
 alt="Python"
-height="75"
-width="75"
+height="50"
+width="50"
 style="padding-right:30px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"
 />   
@@ -111,8 +111,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
 <img 
 align="left" 
 alt="Python"
-height="75"
-width="75"
+height="50"
+width="50"
 style="padding-right:30px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
             
@@ -120,8 +120,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-origi
 <img 
 align="left" 
 alt="Python"
-height="75"
-width="75"
+height="50"
+width="50"
 style="padding-right:30px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
           

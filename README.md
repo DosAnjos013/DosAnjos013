@@ -110,33 +110,13 @@ Acredito que o código é o meio, mas o dado é o que direciona o sucesso de um 
 
 ### 📊 Estatísticas
 
-<br/>
-<div align="left">
-  <img 
-  height="180"   
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=DosAnjos013&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img 
-  height="180" 
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DosAnjos013&layout=compact&theme=tokyonight" />
-</div>
-
-<!--
-O Código acima foi inserido, pois a API que o código abaixo utiliza, parou e como não sei se foi temporariamente ou se foi permanentemente utilizei de outro recurso(API) para exibir as mesmas informações que o código de baixo exibia.
--->
-
-<!--
-<img
-align="left" 
-alt="Estatisticas"
-height="200"
-style="padding-right:30px;"
-src="https://github-readme-stats.vercel.app/api?username=DosAnjos013&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&custom_title=Estatísticas%20de%20João"
-/>   
-
-<img
-align="left" 
-alt="Tecnologias"
-height="200"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=DosAnjos013&theme=tokyonight&layout=compact&custom_title=Tecnologias"
-/>   
--->
+<p align="left">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=DosAnjos013&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    width="420"
+  />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DosAnjos013&layout=compact&theme=tokyonight&locale=pt-br"
+    width="390"
+  />
+</p>

@@ -60,14 +60,14 @@ Acredito que o código é o meio, mas o dado é o que direciona o sucesso de um 
   &nbsp;&nbsp;
   <img
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg"
-     width="50"
+     width="95"
      alt="Numpy"
      align="middle"
      />
   &nbsp;&nbsp;
   <img
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"
-     width="50"
+     width="65"
      alt="SQL"
      align="middle"
      />
@@ -112,7 +112,7 @@ Acredito que o código é o meio, mas o dado é o que direciona o sucesso de um 
 
 
 ### 📊 Estatísticas
-
+<br/>
 <div align="left">
   <img 
   height="180"   

@@ -36,20 +36,77 @@ Acredito que o código é o meio, mas o dado é o que direciona o sucesso de um 
 ---
 ### 🤖 Linguagens e tecnologias
 
-<table>
-  <tr align="center">
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" alt="Python" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain-wordmark.svg" width="95" alt="Matplotlib" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="50" alt="Pandas" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" width="50" alt="Numpy" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="50" alt="SQL" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" alt="Github" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" alt="Git" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="50" alt="Vscode" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" alt="Html5" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" alt="Css3" /></td>
-  </tr>
-</table>
+<p align="left">
+  <img
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+     width="50"
+     alt="Python"
+     align="middle"
+     />
+  &nbsp;&nbsp;
+  <img
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain-wordmark.svg"
+     width="95"
+     alt="Matplotlib"
+     align="middle"
+     />
+  &nbsp;&nbsp;
+  <img
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"
+     width="50"
+     alt="Pandas"
+     align="middle"
+     />
+  &nbsp;&nbsp;
+  <img
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg"
+     width="50"
+     alt="Numpy"
+     align="middle"
+     />
+  &nbsp;&nbsp;
+  <img
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"
+     width="50"
+     alt="SQL"
+     align="middle"
+     />
+  &nbsp;&nbsp;
+  <img
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+     width="50"
+     alt="Github"
+     align="middle"
+     />
+  &nbsp;&nbsp;
+  <img
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+     width="50"
+     alt="Git"
+     align="middle"
+     />
+  &nbsp;&nbsp;
+  <img
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"
+     width="50"
+     alt="Vscode"
+     align="middle"
+     />
+  &nbsp;&nbsp;
+  <img
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+     width="50"
+     alt="Html5"
+     align="middle"
+     />
+  &nbsp;&nbsp;
+  <img
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+     width="50"
+     alt="Css3"
+     align="middle"
+     />
+</p>
           
 <br/><br/><br/>
 

@@ -41,70 +41,70 @@ Acredito que o código é o meio, mas o dado é o que direciona o sucesso de um 
      alt="Python" 
      height="50" 
      width="50" 
-     style="vertical-align: middle; padding-right:20px;" 
+     style="vertical-align: middle; padding-right:30px;" 
   />
   <img
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain-wordmark.svg"
      alt="Matplotlib" 
      height="75" 
      width="95" 
-     style="vertical-align: middle; padding-right:20px;"  
+     style="vertical-align: middle; padding-right:30px;"  
   />
   <img 
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" 
      alt="Pandas" 
      height="50" 
      width="50" 
-     style="vertical-align: middle; padding-right:20px;"
+     style="vertical-align: middle; padding-right:30px;"
   />
   <img
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" 
      alt="Numpy" 
      height="50" 
      width="50" 
-     style="vertical-align: middle; padding-right:20px;" 
+     style="vertical-align: middle; padding-right:30px;" 
   />
   <img 
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"
      alt="SQL"
      height="50"
      width="50"
-     style="vertical-align: middle; padding-right:20px;" 
+     style="vertical-align: middle; padding-right:30px;" 
   />
   <img 
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
      alt="Github"
      height="50"
      width="50"
-     style="vertical-align: middle; padding-right:20px;"
+     style="vertical-align: middle; padding-right:30px;"
    />
   <img
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
      alt="Git"
      height="50"
      width="50"
-     style="vertical-align: middle; padding-right:20px;" 
+     style="vertical-align: middle; padding-right:30px;" 
   />
   <img
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"
      alt="Vscode"
      height="50"
      width="50"
-     style="vertical-align: middle; padding-right:20px;" 
+     style="vertical-align: middle; padding-right:30px;" 
   />
   <img
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
      alt="Html5"
      height="50"
      width="50"
-     style="vertical-align: middle; padding-right:20px;"
+     style="vertical-align: middle; padding-right:30px;"
   />
   <img
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
      alt="Css3"
      height="50"
      width="50"
-     style="vertical-align: middle; padding-right:20px;" 
+     style="vertical-align: middle; padding-right:30px;" 
   />
 </p>
           

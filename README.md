@@ -118,7 +118,7 @@ Acredito que o código é o meio, mas o dado é o que direciona o sucesso de um 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=DosAnjos013&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
     width="420"
   />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DosAnjos013&layout=compact&theme=tokyonight&locale=pt-br"
     width="390"

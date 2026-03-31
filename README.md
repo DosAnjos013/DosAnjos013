@@ -22,7 +22,8 @@ Acredito que o código é o meio, mas o dado é o que direciona o sucesso de um 
     <a href="https://github.com/DosAnjos013?tab=repositories&sort=stargazers">
          <img alt="total stars" 
          title="Total de estrelas" 
-         src="https://custom-icon-badges.demolab.com/github/stars/DosAnjos013?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/></a>
+         src="https://custom-icon-badges.demolab.com/github/stars/DosAnjos013?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
+    </a>
     <a href="https://www.linkedin.com/in/joão-pedro-dos-anjos-martins-842b7a15b"
         target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"
@@ -31,6 +32,10 @@ Acredito que o código é o meio, mas o dado é o que direciona o sucesso de um 
     <a href="https://discord.com/users/DosAnjosM"
         target="_blank">
         <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+        </a>
+      <a href="https://jpdosanjos.com.br/"
+        target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=icone-site&logoColor=red" alt="Portfolio">
         </a>
    </p>
 

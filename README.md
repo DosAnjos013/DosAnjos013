@@ -12,17 +12,17 @@ Acredito que o código é o meio, mas o dado é o que direciona o sucesso de um 
 
 💡 Buscando aplicar IA e Analytics para resolver problemas reais de mercado.
 
-   <p align="left"> 
+<p align="left"> 
     <a href="https://github.com/DosAnjos013?tab=followers">
          <img 
          alt="followers" 
          title="Me siga no GitHub" 
-         src="https://custom-icon-badges.demolab.com/github/followers/DosAnjos013?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
+         src="https://img.shields.io/github/followers/DosAnjos013?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" alt="followers" title="Me siga no GitHub""/>
          </a>
     <a href="https://github.com/DosAnjos013?tab=repositories&sort=stargazers">
          <img alt="total stars" 
          title="Total de estrelas" 
-         src="https://custom-icon-badges.demolab.com/github/stars/DosAnjos013?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
+         src="https://img.shields.io/github/stars/DosAnjos013?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" alt="total stars" title="Total de estrelas"/>
     </a>
     <a href="https://www.linkedin.com/in/joão-pedro-dos-anjos-martins-842b7a15b"
         target="_blank">

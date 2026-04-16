@@ -129,3 +129,11 @@ Acredito que o código é o meio, mas o dado é o que direciona o sucesso de um 
     width="390"
   />
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DosAnjos013/DosAnjos013/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DosAnjos013/DosAnjos013/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DosAnjos013/DosAnjos013/output/pacman-contribution-graph.svg">
+</picture>
+
+###

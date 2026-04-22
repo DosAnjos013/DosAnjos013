@@ -72,7 +72,7 @@ Acredito que o código é o meio, mas o dado é o que direciona o sucesso de um 
      />
   &nbsp;&nbsp;
   <img
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"
      width="65"
      alt="SQL"
      align="middle"
@@ -89,6 +89,13 @@ Acredito que o código é o meio, mas o dado é o que direciona o sucesso de um 
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
      width="50"
      alt="Git"
+     align="middle"
+     />
+  &nbsp;&nbsp;
+    <img
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg"
+     width="50"
+     alt="Github_codespace"
      align="middle"
      />
   &nbsp;&nbsp;
@@ -110,6 +117,13 @@ Acredito que o código é o meio, mas o dado é o que direciona o sucesso de um 
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
      width="50"
      alt="Css3"
+     align="middle"
+     />
+&nbsp;&nbsp;
+    <img
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" 
+     width="95"
+     alt="Apache"
      align="middle"
      />
 </p>

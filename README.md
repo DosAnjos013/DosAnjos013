@@ -134,13 +134,15 @@ Acredito que o código é o meio, mas o dado é o que direciona o sucesso de um 
 
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=DosAnjos013&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=DosAnjos013&show_icons=true&theme=tokyonight&locale=pt-br&custom_title=joão%20pedro"
     width="420"
+    alt="Estatísticas do GitHub"
   />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=DosAnjos013&layout=compact&theme=tokyonight&locale=pt-br"
     width="390"
+    alt="Top Linguagens"
   />
 </p>
 
